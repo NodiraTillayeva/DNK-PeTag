@@ -2,6 +2,10 @@
 ![image](https://user-images.githubusercontent.com/74857220/170863376-3604af4c-01d6-40fb-ae61-a0ee41d5be42.png)
 Tech Tag for your Pet!
 
+### Demo Video
+[![DemoVideo](https://user-images.githubusercontent.com/74857220/170865305-934259da-3c50-43b0-9d67-a4abdf764525.png)](https://youtu.be/ZGqovd6ZHnc)
+
+
 ## Dataset
 Contains 200 records of different condition of dogs(healthy or not healthy) and their reciprocal parameters like age and weight
 
