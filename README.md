@@ -18,7 +18,7 @@ Contains 200 records of different condition of dogs(healthy or not healthy) and 
 ![image](https://user-images.githubusercontent.com/74857220/170864340-1f738b7c-32bd-4b02-83d9-686a31652119.png)
 
 ## Model Training using Python Tensorflow
-[Link to the Python Code](https://github.com/NodiraTillayeva/DNK-PeTag/blob/main/PythonCode.c)
+[Link to the Python Code](https://github.com/NodiraTillayeva/DNK-PeTag/blob/main/pythonCode.c)
 
 ![image](https://user-images.githubusercontent.com/74857220/170864447-416c49ad-097d-45e4-8a45-0158276105e1.png)
 
